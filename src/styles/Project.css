@@ -1,0 +1,14 @@
+.container-box {
+    max-width: 1200px;
+    margin: 3rem auto !important;
+    width: 90%;
+}
+.background-gradient-color {
+    background:linear-gradient(to right ,#212123, #1c1c1e) !important;
+
+    padding: 3rem 1.5rem;
+
+}
+.sub-box h4 {
+    color: #62a4f8;
+}
