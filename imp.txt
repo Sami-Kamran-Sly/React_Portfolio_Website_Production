@@ -4,3 +4,7 @@
 - **react-icons**: A React library that allows you to easily include a wide variety of icons from popular icon sets in your app.
 - **react-router-dom**: A React library for handling routing and navigation between different pages or components in web applications.
 - **react-simple-typewriter**: A lightweight React component that creates a typewriter effect for text animations.
+
+
+
+Packages: npm install blurhash framer-motion react-blurhash react-icons react-router-dom react-simple-typewriter 
