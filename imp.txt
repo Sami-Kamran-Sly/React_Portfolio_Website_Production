@@ -1,6 +1,6 @@
-- blurhash: A library that generates a compact representation of an image to display as a blurred placeholder while the full image loads.
-- framer-motion: A library for adding smooth, declarative animations and interactions to Reactomponents.
-- react-**: A React component for rendering images as blurhash placeholders before they fully load.
-- reac-icons** A React library that allows you to easily include a wide variety of icons from popular icon sets in your app.
-- re-router-**: A React library for handling routing and navigation between different pages or components in web applications.
-- -simple-**: A lightweight React component that creates a typewriter effect for text animations
+- **blurhash**: A library that generates a compact representation of an image to display as a blurred placeholder while the full image loads.
+- **framer-motion**: A library for adding smooth, declarative animations and interactions to React components.
+- **react-blurhash**: A React component for rendering images as blurhash placeholders before they fully load.
+- **react-icons**: A React library that allows you to easily include a wide variety of icons from popular icon sets in your app.
+- **react-router-dom**: A React library for handling routing and navigation between different pages or components in web applications.
+- **react-simple-typewriter**: A lightweight React component that creates a typewriter effect for text animations.
