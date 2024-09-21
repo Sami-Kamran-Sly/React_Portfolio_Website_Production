@@ -7,4 +7,4 @@
 
 
 
-Packages: npm install blurhash framer-motion react-blurhash react-icons react-router-dom react-simple-typewriter 
+Packages To Install : npm install blurhash framer-motion react-blurhash react-icons react-router-dom react-simple-typewriter 
